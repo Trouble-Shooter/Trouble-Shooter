@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Trouble-Shooter
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me eliasabdi2019@gmail.com
+On Twitter @Elias80319828
 
 <!---
 Trouble-Shooter/Trouble-Shooter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
